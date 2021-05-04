@@ -6,8 +6,9 @@
 - :pencil2: My Google Scholar page: https://scholar.google.com/citations?user=7UVlnAQAAAAJ&hl=tr&oi=ao
 - 📫 You can reach me via LinkedIn or e-mail.
 
-Email: furkanszr@yahoo.com
 LinkedIn: https://www.linkedin.com/in/furkansezer/
+Email: furkanszr@yahoo.com
+
 
 <!---
 furkansezer/furkansezer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
