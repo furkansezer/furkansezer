@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @furkansezer
 - 👀 I’m interested in operations research and data science. (I am open to internship positions).
-- :computer: I have repositories on route planning via mixed integer linear programming, clustering analysis, markov chain simulation, forecasting, and optimization. 
+- :computer: I have project repositories on route planning via mixed integer linear programming, clustering analysis, markov chain simulation, forecasting, and optimization. 
 - 🌱 I’m currently learning Quantum Computing via IBM Qiskit tools (Watching videos, programming on Qiskit, reading textbook), https://qiskit.org/learn/  
 - 💞️ I’m looking to collaborate on research projects in Quantum Computing, Operations Research and Game Theory
 - :pencil2: My Google Scholar page: https://scholar.google.com/citations?user=7UVlnAQAAAAJ&hl=tr&oi=ao 
