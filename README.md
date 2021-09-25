@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning Quantum Computing via IBM Qiskit tools (Watching videos, programming on Qiskit, reading textbook), https://qiskit.org/learn/  
 - 💞️ I’m looking to collaborate on research projects in Quantum Computing, Operations Research and Game Theory
 - :pencil2: My Google Scholar page: https://scholar.google.com/citations?user=7UVlnAQAAAAJ&hl=tr&oi=ao 
+- :page_facing_up: My personal website: https://furkansezer.github.io/Furkan-Sezer/
 - 📫 You can reach me via LinkedIn or e-mail.
 
 LinkedIn: https://www.linkedin.com/in/furkansezer/
