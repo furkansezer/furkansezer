@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @furkansezer
 - :books: I'm a 3rd year PhD student at Industrial Engineering Department of Texas A&M University
-- 👀 I’m interested in operations research and data science. (I am open to internship positions).
+- 👀 I’m interested in operations research and data science. (I am open to internship positions)
 - :computer: I have project repositories on statistical forecasting & time series, markov chain simulation, route planning via mixed integer linear programming, clustering analysis, and line search for nonlinear programming. 
 - 💞️ I’m looking to collaborate on research projects in Operations Research, Game Theory and Reinforcement Learning
 - :pencil2: My Google Scholar page: https://scholar.google.com/citations?user=7UVlnAQAAAAJ&hl=tr&oi=ao 
