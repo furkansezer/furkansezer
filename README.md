@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @furkansezer
-- :books: I'm a 4th year PhD student at Industrial Engineering (Operations Research) Department of Texas A&M University
+- :books: I'm a 4th year PhD candidate at Industrial Engineering (Operations Research) Department of Texas A&M University
 - 👀 I’m interested in operations research and data science
 - :computer: I have project repositories on joint production/transportation LP, statistical forecasting & time series, markov chain simulation, route planning via mixed integer linear programming, clustering analysis, and line search for nonlinear programming. 
 - :page_facing_up: My personal website: https://furkansezer.github.io/Furkan-Sezer/
